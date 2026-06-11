@@ -1,0 +1,13 @@
+{
+  "mes": "Junho 2026",
+  "titulo": "Seu destaque principal do mês",
+  "tipo": "pipeline",
+  "metricas": {
+    "label1": "Métrica 1",
+    "valor1": "valor aqui",
+    "label2": "Métrica 2", 
+    "valor2": "valor aqui"
+  },
+  "descricao": "Descrição detalhada do destaque. O que aconteceu, por quê foi importante, qual o impacto.",
+  "acao_recomendada": "Ação sugerida para o próximo período"
+}
